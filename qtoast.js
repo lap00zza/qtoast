@@ -42,9 +42,9 @@
         shell.classList.add("qtoast");
         shell.style.position = "relative";
         shell.innerHTML =
-            `<button class="qtoast__close" style="position: absolute; right: 4px; top: 4px;">X</button>
-        <div class="qtoast__title">${options.title}</div>
-        <div class="qtoast__body">${options.body}</div>`;
+            `<button class="qtoast__close" style="position: absolute; right: 4px; top: 4px;">X</button>` +
+            `<div class="qtoast__title">${options.title}</div>` +
+            `<div class="qtoast__body">${options.body}</div>`;
         return shell;
     };
 
