@@ -1,4 +1,4 @@
-#QToast
+# QToast
 Simple toast library
 
 ![](https://i.imgur.com/aailQjQ.gif)
