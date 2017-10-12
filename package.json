@@ -1,0 +1,23 @@
+{
+  "name": "qtoast",
+  "version": "1.0.0",
+  "description": "A js library for making simple toasts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lap00zza/qtoast.git"
+  },
+  "keywords": [
+    "toast",
+    "simple"
+  ],
+  "author": "Jewel Mahanta",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lap00zza/qtoast/issues"
+  },
+  "homepage": "https://github.com/lap00zza/qtoast#readme"
+}

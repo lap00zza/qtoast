@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <link rel="stylesheet" href="../qtoast.css">
+</head>
+<body>
+
+</body>
+<script src="../qtoast.js"></script>
+<script>
+    /* --- Demo --- */
+    const myToast = new QToast({
+        position: "topRight"
+    });
+
+    myToast.show({
+        title: "Hello",
+        body: "World",
+        duration: 5000
+    });
+</script>
+</html>
