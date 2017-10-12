@@ -4,8 +4,8 @@ Simple toast library
 ![](https://i.imgur.com/CYdn38P.gif)
 
 ## Download
-* `https://unpkg.com/qtoast@1.0.0/qtoast.js`
-* `npm install qtoast`
+* CDN: `https://unpkg.com/qtoast@latest/qtoast.js` and `https://unpkg.com/qtoast@latest/qtoast.css`
+* or, via NPM: `npm install qtoast`
 
 ## Sample Usage
 Check `demo/`
